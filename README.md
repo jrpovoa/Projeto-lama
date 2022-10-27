@@ -1,12 +1,12 @@
-# Projeto-lama
+## Projeto-lama
 
-## 🚀 Descrição do Projeto
+### 🚀 Descrição do Projeto
 
 Labenu Music Awards é um show anual de músicas organizado pela própria Labenu que conta com a participação de bandas super famosas nacionais e internacionais! Ele sempre acontece durante uma semana inteira, começando na manhã de segunda e encerrando na noite de domingo.
 
 Para gerenciar o evento é necessário organizar e centralizar as informações dos shows em um servidor, que então disponibiliza os dados para o website no front-end. Além de controlar os eventos com suas bandas e datas do show, a aplicação também deve gerenciar os ingressos de cada show. A arena tem uma capacidade máxima de 5000 pessoas, portanto deve ser respeitado um limite máximo de ingressos por show.
 
-## 📋 Funcionalidades
+### 📋 Funcionalidades
 #### 1. Cadastro de usuário
 
 -   **Método:** `POST`
